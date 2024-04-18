@@ -1,3 +1,25 @@
 body {
-    background-color: rgb(178, 114, 237);
+   background-color: rgb(219, 188, 188);
 }
+
+.perfil {
+    display: flex;
+}
+.imagen {
+    width: 250px;
+    margin-right: 25px;
+}
+
+.textoPresentacion { 
+    padding: 100px;
+
+}
+
+.imagenescard {
+    width: 290px;
+}
+section {
+    padding: 25px;
+}
+
+
