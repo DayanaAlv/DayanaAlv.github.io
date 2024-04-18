@@ -4,6 +4,8 @@ body {
 
 .perfil {
     display: flex;
+    justify-content:center ;
+    border: 25px;
 }
 .imagen {
     width: 250px;
