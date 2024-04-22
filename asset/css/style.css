@@ -10,6 +10,7 @@ body {
 .imagen {
     width: 250px;
     margin-right: 25px;
+    padding: 2rem;
 }
 
 .textoPresentacion { 
@@ -20,8 +21,24 @@ body {
 .imagenescard {
     width: 290px;
 }
-section {
-    padding: 25px;
+
+#Acerda-de-mi {
+    margin: 25px;
+    padding: 50px;
+
 }
+footer {
+    background-color: grey;
+    display: flex;
+   justify-content:center;
+
+}
+.icono{
+    width: 25px;
+}
+.TituloFooter {
+    text-size-adjust: 5px;
+}
+    
 
 
