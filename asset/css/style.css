@@ -8,7 +8,8 @@ body {
     border: 25px;
 }
 .imagen {
-    width: 250px;
+    width: 700px;
+    height: 400px;
     margin-right: 25px;
     padding: 2rem;
 }
@@ -21,24 +22,28 @@ body {
 .imagenescard {
     width: 290px;
 }
-
-#Acerda-de-mi {
+section {
     margin: 25px;
-    padding: 50px;
+    padding: 25px;
 
+}
+.tituloH {
+    text-align: center;
+}
+.trabajos {
+    margin: 2rem;
+    
 }
 footer {
     background-color: grey;
-    display: flex;
-   justify-content:center;
+   text-align: center;
 
+    
 }
 .icono{
-    width: 25px;
-}
-.TituloFooter {
-    text-size-adjust: 5px;
-}
+    width: 40px;
     
+}
+   
 
 
